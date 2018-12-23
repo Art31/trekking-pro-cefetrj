@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/34986200/50385772-207d1080-06c2-11e9-9d39-1e848a18d02a.jpg"><br><br>
+  <img src="https://user-images.githubusercontent.com/34986200/50385772-207d1080-06c2-11e9-9d39-1e848a18d02a.jpg" width="50%" height="50%" ><br><br>
 </div>
 
 # Autonomous Robot for Traffic Cone Detection
