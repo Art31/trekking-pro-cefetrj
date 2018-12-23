@@ -1,8 +1,12 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/34986200/50385772-207d1080-06c2-11e9-9d39-1e848a18d02a.jpg"><br><br>
+</div>
+
 # Autonomous Robot for Traffic Cone Detection
 
-English: This is an amateur autonomous robot project developed by the trekking robotics team at CEFET-RJ. It uses tensorflow and python to recognize traffic cones for a competition. 
+English: This is an amateur autonomous robot project developed by the trekking robotics team at CEFET-RJ. It uses tensorflow and python to recognize traffic cones for a competition. The rules for the competition are available in portuguese.
 
-Português: Esse repositorio contem todo o desenvolvimento por tras do robo autonomo capaz de reconhecer cones. Ele foi desenvolvido pelos membros da equipe do ramo IEEE CEFET-RJ em 2018.1.
+Português: Esse repositório contém todo o desenvolvimento por trás do robo autonomo capaz de reconhecer cones. Ele foi desenvolvido pelos membros da equipe do ramo IEEE CEFET-RJ em 2018.1 para competir na modalidade trekking pro da winter challenge. O manual se encontra [aqui](other_files/robocore_regras_robo_trekking.pdf).
 
 The [Mechanics](Mechanics) page contains a step by step description about the process of building the robot with photos.
 
