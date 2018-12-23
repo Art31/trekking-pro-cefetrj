@@ -1,11 +1,11 @@
 # Motion system setup
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/34986200/50386160-aac87300-06c8-11e9-83f5-01101336575e.jpg"><br><br>
+  <img src="https://user-images.githubusercontent.com/34986200/50386160-aac87300-06c8-11e9-83f5-01101336575e.jpg" width="45%" height="45%" ><br><br>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/34986200/50386367-f0d30600-06cb-11e9-92c0-7ab62c70080a.jpg"><br><br>
+  <img src="https://user-images.githubusercontent.com/34986200/50386367-f0d30600-06cb-11e9-92c0-7ab62c70080a.jpg" width="45%" height="45%" ><br><br>
 </div>
 
 # Lower part of the motion system
